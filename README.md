@@ -5,5 +5,5 @@ Practical Task Modules (in Software Engineering) completed:
 3) Data Visualization with Perspective
 
 Patch Files showing changes introduced to code --> 
-patch_files/001-patch-file.txt : Interface of JPMC's feed sets
-patch_files/002-patch-file.txt : Graphical represenation of data using React
+1) patch_files/001-patch-file.txt : Interface of JPMC's feed sets
+2) patch_files/002-patch-file.txt : Graphical represenation of data using React
